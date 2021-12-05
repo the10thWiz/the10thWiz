@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @the10thWiz
-- 👀 I’m interested in Computer Science and Cryptography
-- 🌱 I’m currently learning a variety of things
-- 💞️ I’m looking to collaborate on Rust libraries
-- 📫 How to reach me [matthew.pomes@pm.me](mailto:matthew.pomes@pm.me)
+# Hello, I'm Matthew Pomes (@the10thWiz)
 
-<!---
-the10thWiz/the10thWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at UW-Stout studying Cryptography, along with a
+variety of other computer science topics.
+
+## Languages
+
+I'm familar with a wide variety of languages, although my favorite is Rust.
+
+## Projects
+
+I'm working a few personal projects, as well as a major feature for the Rocket
+HTTP framework.
+
